@@ -13,5 +13,6 @@
 
 10 things I've learned from installfest:
 
--ls
-  
+-ls (dir for windows)
+  -this is what this is (AHEM list files)
+- cd
