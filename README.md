@@ -1,18 +1,3 @@
 # Think-Launch-Project
 
-## My project goal:
-- Today I learned this:
-[ ] does this
-[ x ] does this
-
-*this was fun*
-**Woot**
-
-[this is a link](http://link.com)
-![alt text for an image] (link to image.jpg)
-
-10 things I've learned from installfest:
-
--ls (dir for windows)
-  -this is what this is (AHEM list files)
-- cd
+I signed up for this class because I have developed a growing interest in HTML coding and programming. Even though I am an English major, one of my minors is in Interactive and Social Media. I want to learn more about the process and coding because I think it is really cool what you can do with it. It seems like the possibilities are endless. I signed up for this class unsure if I was going to be selected or not, and I was happily surprised when I was chosen. For my entrepreneurial goals, I would like to do something pertaining to my major. I'd like to create some kind of platform that allows written or other art forms and forms of creativity to be mixed with technology. I think that we are in a new age where we can express ourselves and create things in new ways we have never thought possible before. I don't know exactly the kind of style that I want to create my platform, but I know that I want it to be interactive and educational in the sense learning more about technology. I hope to make some cool web pages and learn a lot more about design, HTML, Java, CSS and coding in general in this class.
