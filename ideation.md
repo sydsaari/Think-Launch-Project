@@ -18,3 +18,4 @@
   - How to make users feel safe to share their work?
   - How to promote/share local artist events/shows/work?
   - How to encourage local artist involvement?
+  - It is hard to promote/sell local art nowadays
